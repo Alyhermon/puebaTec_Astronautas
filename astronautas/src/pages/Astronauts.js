@@ -89,7 +89,7 @@ function Astronauts() {
       </div>
 
       <div className="Astronautas">
-        <h1 className="titulo">AstroSpaces</h1>
+        <h1 className="titulo">AstroSpace</h1>
         <div className="filters">
           <DropdownFilter
             selectedCategory={selectedCategory}
