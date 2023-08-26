@@ -34,7 +34,7 @@
 .titulos th{
   text-align: justify;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .parrafo{
@@ -111,9 +111,8 @@ td .text{
   }
 
   
-  /*************************************************************/
 
-  .bodyModal{
+.bodyModal{
     text-align: justify;
     font-size: 30px;
     width: 450px;
@@ -125,7 +124,7 @@ td .text{
 
 .text{
   text-align: center;
-  font-size: 150px;
+  font-size: 50px;
   font-weight: bold;
 }
 
