@@ -42,9 +42,10 @@
   width: 600px;
 }
 
-.buttonCss{
+button{
   position: relative;
-  bottom: 7px;
+  bottom: 8px;
+  
   left: 5px;
 }
 

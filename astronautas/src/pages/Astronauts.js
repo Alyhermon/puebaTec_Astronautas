@@ -160,11 +160,13 @@ function Astronauts() {
                       <td>{astronaut.status.name}</td>
                       <td>
                         <td>
-                          <button onClick={() => handleModalShow(astronaut)}>
+                          <button 
+                          className=" btn"
+                          onClick={() => handleModalShow(astronaut)}>
                           <img
                             src="../img/icons/ver.png"
                             alt="Details"
-                            height={35}
+                            height={33}
                           />
                           </button>
                         </td>
