@@ -55,8 +55,8 @@ function Astronauts() {
   const pagedData = searchedData.slice(offset, offset + pageSize);
   const pageCount = Math.ceil(searchedData.length / pageSize);
 
-  const handlePageClick = ({ selected }) => {
-    setCurrentPage(selected);
+  const handlePageClick = ({ seleccion }) => {
+    setCurrentPage(seleccion);
   };
 
   const handleModalClose = () => {
